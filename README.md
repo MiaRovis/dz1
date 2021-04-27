@@ -1,1 +1,1 @@
-# Praktikum - zadaće
+# Praktikum - vjezbe
